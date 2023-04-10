@@ -460,7 +460,7 @@
 }
 
 .mycheckbox1 input:checked ~ span::after{
-  content: url(..//images/like.svg);
+  content: url(..//img/like_icon.png);
   display: inline-block;
   width: 12px;
   height: 12px;
